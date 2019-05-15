@@ -6,10 +6,14 @@ namespace Giraffe
     {
         public static void Main(string[] args)
         {
+            Console.WriteLine("Hello, is there a name I can use that is most comforting to you?");
+            string name = Console.ReadLine();
             Console.WriteLine("What is your name?");
-            string user =  Console.ReadLine();
-            Console.WriteLine("Hello " + user);
+            string user = Console.ReadLine();
+            Console.WriteLine("Hello " + user + " my name is " + name);
             string response = Console.ReadLine();
+
+
             while (true)
             {
                 if (response.ToLower() == "hello")
@@ -28,12 +32,12 @@ namespace Giraffe
                     Console.WriteLine("I am glad to hear that! I hope you have a great day!");
                     break;
                 }
-                else if (goodResponse.ToLower() == "I am good")
+                else if (goodResponse.ToLower() == "i am good")
                 {
                     Console.WriteLine("I am glad to hear that! I hope you have a great day!");
                     break;
                 }
-                else if (goodResponse.ToLower() == "I am well")
+                else if (goodResponse.ToLower() == "i am well")
                 {
                     Console.WriteLine("I am glad to hear that! I hope you have a great day!");
                     break;
