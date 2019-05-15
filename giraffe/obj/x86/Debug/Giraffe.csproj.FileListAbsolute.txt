@@ -1,0 +1,6 @@
+/Users/autumnsellers/Projects/Giraffe/Giraffe/bin/Debug/Giraffe.exe
+/Users/autumnsellers/Projects/Giraffe/Giraffe/bin/Debug/Giraffe.pdb
+/Users/autumnsellers/Projects/Giraffe/Giraffe/obj/x86/Debug/Giraffe.csprojAssemblyReference.cache
+/Users/autumnsellers/Projects/Giraffe/Giraffe/obj/x86/Debug/Giraffe.csproj.CoreCompileInputs.cache
+/Users/autumnsellers/Projects/Giraffe/Giraffe/obj/x86/Debug/Giraffe.exe
+/Users/autumnsellers/Projects/Giraffe/Giraffe/obj/x86/Debug/Giraffe.pdb
